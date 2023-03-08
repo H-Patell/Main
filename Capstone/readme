@@ -1,1 +1,11 @@
-
+Restaurant aggregator like Zomato sells groceries to restaurants. Zomato calls that vertical Zomato 
+Hyperpure. But, according to DART, restaurants are not opting for Zomato or discontinuing it because of 
+the narrower catalogue & poor availability in terms of quantity required. We are here with our project to 
+help them figure out how such issues can be handled. Based on the dishes a restaurant sells, our AI-based 
+framework can identify all the necessary ingredients needed to prepare them. For a given dish, our 
+algorithm searches several websites that publish the recipe of the dish and extract all the ingredients
+needed to cook the dish. Not just that it also extracts the quantity of each ingredient required to cook the 
+dish for a single person. The same can be applied to all the dishes a restaurant sell. With such estimations
+and projected sales for the dish, it would be possible to properly manage their inventory with useful items 
+in appropriate quantities. Such an application can solve the problem of a narrower catalogue and poor 
+availability.
